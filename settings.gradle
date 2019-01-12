@@ -1,3 +1,4 @@
 rootProject.name = 'gradle-examples'
 include 'flyway-example'
+include 'java1-example'
 
